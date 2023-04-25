@@ -8,3 +8,4 @@
 <h2>python extrair-cdi.py.
 <h2>touch cdi-grafico.py.
 <h2>python cdi-grfico.py dia-10.
+<h2>Obsevation (When creating each script, add the codes that are inside each .py file in this repository.
