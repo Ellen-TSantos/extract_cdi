@@ -17,4 +17,7 @@
 ![comandos](https://user-images.githubusercontent.com/122386488/234194504-d0443747-0c07-42dc-9961-3a6c169f1c2c.png)
 <br>
 
-<h2>Graph collected
+<h2>Graph collected.
+<br><br>
+
+![dia-10](https://user-images.githubusercontent.com/122386488/234195319-08a99208-a40d-457e-8c8e-0a5fe0c79745.png)
