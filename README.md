@@ -11,3 +11,10 @@
 <h2>Obsevation (When creating each script, add the codes that are inside each .py file in this repository.
 <br>
 <img align="center" alto="Ellen-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
+<br><br>
+
+
+![comandos](https://user-images.githubusercontent.com/122386488/234194504-d0443747-0c07-42dc-9961-3a6c169f1c2c.png)
+<br>
+
+<h2>Graph collected
